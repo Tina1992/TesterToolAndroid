@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenCV/OpenCV.iml" filepath="$PROJECT_DIR$/OpenCV/OpenCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto.iml" filepath="$PROJECT_DIR$/Proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services/google-play-services.iml" filepath="$PROJECT_DIR$/google-play-services/google-play-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unirest-java-1.3.2-SNAPSHOT-withDependency-ShadedForAndroid/unirest-java-1.3.2-SNAPSHOT-withDependency-ShadedForAndroid.iml" filepath="$PROJECT_DIR$/unirest-java-1.3.2-SNAPSHOT-withDependency-ShadedForAndroid/unirest-java-1.3.2-SNAPSHOT-withDependency-ShadedForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unirest-java-1.4.8-SNAPSHOT/unirest-java-1.4.8-SNAPSHOT.iml" filepath="$PROJECT_DIR$/unirest-java-1.4.8-SNAPSHOT/unirest-java-1.4.8-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unirest-java-1.4.8-SNAPSHOT-withDependency-ShadedForAndroid/unirest-java-1.4.8-SNAPSHOT-withDependency-ShadedForAndroid.iml" filepath="$PROJECT_DIR$/unirest-java-1.4.8-SNAPSHOT-withDependency-ShadedForAndroid/unirest-java-1.4.8-SNAPSHOT-withDependency-ShadedForAndroid.iml" />
+    </modules>
+  </component>
+</project>

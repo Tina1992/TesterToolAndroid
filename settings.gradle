@@ -1,0 +1,1 @@
+include ':app', ':google-play-services', ':unirest-java-1.4.8-SNAPSHOT', ':OpenCV', ':unirest-java-1.4.8-SNAPSHOT-withDependency-ShadedForAndroid', ':unirest-java-1.3.2-SNAPSHOT-withDependency-ShadedForAndroid'
